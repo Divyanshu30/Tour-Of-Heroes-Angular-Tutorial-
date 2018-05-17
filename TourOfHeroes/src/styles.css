@@ -1,0 +1,18 @@
+body
+{
+    background-color: wheat;
+    padding: 0vw  10vw 10vw 15vw;
+    cursor: -webkit-grab;
+    font-style: italic; 
+
+}
+
+nav
+{
+    background-color: antiquewhite;
+    text-decoration: aquamarine;
+    font-weight: 100;
+    border-style: unset;
+    font-size: 25px;
+    
+}
